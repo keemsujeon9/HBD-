@@ -54,7 +54,7 @@ body>h1 span {
     color: #fff;
     height: 80px;
     line-height: 80px;
-    animation: text 5s infinite linear;
+    animation: text 10s infinite linear;
     white-space: nowrap;
 }
 
@@ -69,7 +69,7 @@ body>h1 span {
     }
 
     100% {
-        transform: translateX(-100%)
+        transform: translateX(-700%)
     }
 }
 
